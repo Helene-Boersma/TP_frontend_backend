@@ -1,0 +1,21 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "node app.js",
+        "start": "node app.js",
+        "test": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "express-session": "^1.17.2",
+        "npx": "^10.2.2"
+    },
+    "devDependencies": {
+        "nodemon": "2.0.4"
+    }
+}
